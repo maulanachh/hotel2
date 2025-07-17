@@ -1,0 +1,1 @@
+<button wire:click="$dispatch(&#039;edit&#039;, JSON.parse(&#039;{\u0022rowId\u0022:140}&#039;))" class="btn btn-ghost-primary waves-effect waves-light" id="140"><i class="bx bx-edit-alt"></i> Edit</button><?php /**PATH /var/www/html/jkhomestay/storage/framework/views/a5dffbb2f47fa0edba6413d77069b604.blade.php ENDPATH**/ ?>

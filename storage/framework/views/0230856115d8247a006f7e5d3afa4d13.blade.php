@@ -1,0 +1,1 @@
+<button wire:click="$dispatch(&#039;edit&#039;, JSON.parse(&#039;{\u0022rowId\u0022:161}&#039;))" class="btn btn-ghost-primary waves-effect waves-light" id="161"><i class="bx bx-edit-alt"></i> Edit</button>
